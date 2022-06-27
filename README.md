@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ASIKALIKHAN
 - 👀 I’m interested in learning android development and IoT.
-- 🌱 I’m currently learning java android development
-- 💞️ I’m looking to collaborate on android projects.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java android development.
+- 💞️ I’m looking to collaborate on interesting android projects.
+- 📫 you can to reach me out at (https://www.linkedin.com/in/asikalikhan/)
 
 <!---
 ASIKALIKHAN/ASIKALIKHAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
