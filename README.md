@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASIKALIKHAN
+- 👋 Hi, I’m Asik Ali Khan.
 - 👀 I’m interested in learning android development and IoT.
 - 🌱 I’m currently learning java android development.
 - 💞️ I’m looking to collaborate on interesting android projects.
